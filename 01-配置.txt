@@ -5,3 +5,5 @@
 3. 键入 git config --global user.email '402047211@qq.com'
 
 4. 克隆远程仓库 git clone ' github 创建的远程仓库地址'
+
+end
