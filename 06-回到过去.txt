@@ -1,0 +1,9 @@
+1. git log  -- 查看之前文件提交
+
+2. 复制 commit 后的字符串
+
+3. 使用 git reset --hard + 字符串
+
+4. 使用 git reflog  查看所有版本 复制 commit 字符串
+
+5. 使用 git reset --hard + 字符串 回到未来

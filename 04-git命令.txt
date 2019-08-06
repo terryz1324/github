@@ -1,0 +1,7 @@
+git status - 查看工作区状态
+
+git add 建立跟踪 --> git reset HEAD <file>... 撤销变更
+
+git commit 提交变更 --> 填写变更评论
+
+git push 发布到远程
